@@ -1,3 +1,18 @@
+##Imagenes del Projecto
+![](/public/1.png)
+![](/public/2.png)
+![](/public/3.png)
+![](/public/4.png)
+![](/public/5.png)
+![](/public/6.png)
+![](/public/7.png)
+![](/public/8.png)
+![](/public/9.png)
+![](/public/10.png)
+![](/public/11.png)
+![](/public/12.png)
+![](/public/13.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
